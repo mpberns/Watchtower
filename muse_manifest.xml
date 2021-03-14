@@ -1,0 +1,48 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="watchtower.com" resolutions="1x" timestamp="1615737967220">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4291746622" ref="how-to-use:download:contact-us:index"/>
+    <file name="index.css" crc="4162945153" ref="index"/>
+    <file name="how-to-use.css" crc="157394398" ref="how-to-use"/>
+    <file name="download.css" crc="4137060616" ref="download"/>
+    <file name="contact-us.css" crc="533618163" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:how-to-use:download:contact-us"/>
+    <file name="museutils.js" crc="3939489907" ref="index:how-to-use:download:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:how-to-use:download:contact-us"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:how-to-use:download:contact-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:how-to-use:download:contact-us"/>
+    <file name="require.js" crc="4177726516" ref="index:how-to-use:download:contact-us"/>
+    <file name="webpro.js" crc="3856315280" ref="contact-us"/>
+    <file name="form_check.php" crc="4108222811" ref="contact-us"/>
+    <file name="form_process.php" crc="260214869" ref="contact-us"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:how-to-use:download:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:how-to-use:download:contact-us"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact-us"/>
+    <file name="form-u474.php" crc="4053326579" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="watchtowerlogo3.svg" crc="3876268645" seo="true" ref="index:how-to-use:download:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-to-use" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="watchtowerlogo3_poster_.png" crc="308889815" ref="index"/>
+    <file name="sydney-rae-4gn3kbr7imy-unsplash.jpg" crc="3967789282" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screensnip.jpg" crc="4154017402" seo="true" ref="how-to-use">
+      <caption webpage="how-to-use" alt=""/>
+    </file>
+    <file name="jessica-radanavong-0zkainlmtos-unsplash-crop-u283.jpg" crc="102357747" seo="true" ref="download">
+      <caption webpage="download" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="506637475" seo="true" mt="1615704839636" redirect="true"/>
+  <file name="how-to-use.html" crc="139669896" seo="true" mt="1615737770628" redirect="true"/>
+  <file name="download.html" crc="157644904" seo="true" mt="1615737557223" redirect="true"/>
+  <file name="contact-us.html" crc="218115183" seo="true" mt="1615704928164" redirect="true"/>
+</manifest>
